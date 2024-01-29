@@ -1,0 +1,13 @@
+.button {
+  height: 20px;
+  width: 100px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: orange;
+  color: white;
+}
+
+#test {
+  font-size: 60px;
+  width: 40px;
+}/*# sourceMappingURL=style.css.map */
